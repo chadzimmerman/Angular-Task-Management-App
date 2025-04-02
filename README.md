@@ -41,11 +41,8 @@ ng serve
 The app will be available at `http://localhost:4200`.
 
 ## Screenshots
+<img width="1728" alt="Screenshot 2025-04-02 at 8 54 59 PM" src="https://github.com/user-attachments/assets/f186a1bd-f146-4933-9513-41c5c8827546" />
 
-Here are a few screenshots of the app in action:
-
-### Main Dashboard
-<img width="1728" alt="Screenshot 2025-04-02 at 8 54 59 PM" src="https://github.com/user-attachments/assets/822df5c1-c256-4a4e-8bd3-d3fbd426b855" />
 
 
 ## Future Enhancements
